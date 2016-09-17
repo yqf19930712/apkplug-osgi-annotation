@@ -1,0 +1,3 @@
+include ':app', ':annotation', ':processor'
+
+rootProject.name = 'apkplug-parent'
